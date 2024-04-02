@@ -1,0 +1,3 @@
+﻿  Thread.cpp
+C:\Users\User\source\repos\Thread\Thread\Thread.cpp(34,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Thread.vcxproj -> C:\Users\User\source\repos\Thread\x64\Debug\Thread.exe
